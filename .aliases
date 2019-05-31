@@ -6,6 +6,10 @@ alias ....="cd ../../.."
 alias .....="cd ../../../.."
 alias ~="cd ~" # `cd` is probably faster to type though
 alias -- -="cd -"
+alias dt="cd ~/Desktop"
+
+# programs
+alias gh="google-chrome 'http://github..com/LanceZhu'"
 
 # mv, rm, cp
 alias mv='mv -v'
