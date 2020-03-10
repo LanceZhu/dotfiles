@@ -7,6 +7,8 @@ alias .....="cd ../../../.."
 alias ~="cd ~" # `cd` is probably faster to type though
 alias -- -="cd -"
 alias dt="cd ~/Desktop"
+alias svim="sudo vim"
+alias mkcd='foo(){ mkdir -p "$1"; cd "$1" }; foo'
 
 # programs
 alias gh="google-chrome 'http://github..com/LanceZhu'"
